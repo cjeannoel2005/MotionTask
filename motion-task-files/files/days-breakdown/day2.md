@@ -1,4 +1,4 @@
-### Day 3 breakdown 
+### Day 2 breakdown 
 WHAT YOU WILL LEARN TODAY
 What a database table is (like a spreadsheet with strict rules). What an API route is (a URL your frontend calls to get or save data). What a "middleware" is. How passwords should never be stored as plain text.
 
