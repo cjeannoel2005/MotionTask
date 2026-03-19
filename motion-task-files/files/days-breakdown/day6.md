@@ -1,3 +1,5 @@
+### Day 6 breakdown 
+
 Real apps don't just work — they handle failure gracefully. Today you will add every detail that makes your app feel production-grade: loading spinners, empty states, form validation, and route guards. This is the work that impresses in code reviews.
 
 HOUR 1 — LOADING STATES & EMPTY STATES (60 MIN)
